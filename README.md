@@ -6,6 +6,7 @@
 [<img align="left" alt="abdulkadiraktas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="abdulkadiraktas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
+<br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulkadiraktas&theme=dark&show_icons=true)
 <br />
 ### Languages and Tools:
