@@ -55,6 +55,8 @@
 - [West World](https://www.youtube.com/watch?v=RHxc192XKBo)
 <!-- YOUTUBE:END -->
 
+<!--START_SECTION:activity-->
+
 <!--
 **abdulkadiraktas/abdulkadiraktas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
