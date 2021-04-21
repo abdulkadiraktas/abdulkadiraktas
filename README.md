@@ -68,6 +68,7 @@
 5. ❗️ Closed issue [#1](https://github.com/kibook/redm-phonograph/issues/1) in [kibook/redm-phonograph](https://github.com/kibook/redm-phonograph)
 <!--END_SECTION:activity-->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadiraktas&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadiraktas" /> </p>
 <!--
 **abdulkadiraktas/abdulkadiraktas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
