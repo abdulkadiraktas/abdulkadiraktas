@@ -44,6 +44,11 @@
 [linkedin]: https://www.linkedin.com/in/abdulkadir-aktas/
 [webdevplaylist]: https://www.youtube.com/watch?v=JDW7-mR3DX0&list=PLchFjqoahGcmBjSoYbLDA_9nLWsHY6UOf
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 <!--
 **abdulkadiraktas/abdulkadiraktas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
