@@ -48,7 +48,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-  [West World - Farming](https://www.youtube.com/watch?v=D1vEq37D8IQ)
+- [West World - Farming](https://www.youtube.com/watch?v=D1vEq37D8IQ)
 - [Home Creator](https://www.youtube.com/watch?v=FpT0hMKYaDQ)
 - [West World](https://www.youtube.com/watch?v=Tb5xLqgZfLM)
 - [West World](https://www.youtube.com/watch?v=Ggch40QiFOM)
