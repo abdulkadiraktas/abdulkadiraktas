@@ -35,6 +35,7 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulkadiraktas&repo=CefLauncher&theme=dark)](https://github.com/abdulkadiraktas/CefLauncher)
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulkadiraktas&repo=Salty-Chat-For-RedM-WestWorld&theme=dark)](https://github.com/abdulkadiraktas/Salty-Chat-For-RedM-WestWorld)
+  </details>
 
 
 [website]: https://abdulkadiraktas.com.tr
@@ -52,7 +53,6 @@
 - [West World](https://www.youtube.com/watch?v=Tb5xLqgZfLM)
 - [West World](https://www.youtube.com/watch?v=Ggch40QiFOM)
 - [West World](https://www.youtube.com/watch?v=RHxc192XKBo)
-- [Edit Images in VS Code!?! | Luna Paint Extension](https://www.youtube.com/watch?v=I_6bZQZheC0)
 <!-- YOUTUBE:END -->
 
 <!--
