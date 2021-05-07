@@ -63,11 +63,11 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/RedEM-RP/redemrp_identity/pull/23) in [RedEM-RP/redemrp_identity](https://github.com/RedEM-RP/redemrp_identity)
-2. 💪 Opened PR [#22](https://github.com/RedEM-RP/redemrp_identity/pull/22) in [RedEM-RP/redemrp_identity](https://github.com/RedEM-RP/redemrp_identity)
-3. 💪 Opened PR [#2](https://github.com/kibook/redm-object-spooner/pull/2) in [kibook/redm-object-spooner](https://github.com/kibook/redm-object-spooner)
-4. 🎉 Merged PR [#1](https://github.com/abdulkadiraktas/txAdmin/pull/1) in [abdulkadiraktas/txAdmin](https://github.com/abdulkadiraktas/txAdmin)
-5. 💪 Opened PR [#1](https://github.com/abdulkadiraktas/txAdmin/pull/1) in [abdulkadiraktas/txAdmin](https://github.com/abdulkadiraktas/txAdmin)
+1. 💪 Opened PR [#29](https://github.com/RedEM-RP/redemrp_skin/pull/29) in [RedEM-RP/redemrp_skin](https://github.com/RedEM-RP/redemrp_skin)
+2. 💪 Opened PR [#23](https://github.com/RedEM-RP/redemrp_identity/pull/23) in [RedEM-RP/redemrp_identity](https://github.com/RedEM-RP/redemrp_identity)
+3. 💪 Opened PR [#22](https://github.com/RedEM-RP/redemrp_identity/pull/22) in [RedEM-RP/redemrp_identity](https://github.com/RedEM-RP/redemrp_identity)
+4. 💪 Opened PR [#2](https://github.com/kibook/redm-object-spooner/pull/2) in [kibook/redm-object-spooner](https://github.com/kibook/redm-object-spooner)
+5. 🎉 Merged PR [#1](https://github.com/abdulkadiraktas/txAdmin/pull/1) in [abdulkadiraktas/txAdmin](https://github.com/abdulkadiraktas/txAdmin)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadiraktas&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadiraktas" /> </p>
