@@ -63,11 +63,11 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/kibook/redm-object-spooner/pull/5) in [kibook/redm-object-spooner](https://github.com/kibook/redm-object-spooner)
-2. 💪 Opened PR [#20](https://github.com/RedEM-RP/redemrp_respawn/pull/20) in [RedEM-RP/redemrp_respawn](https://github.com/RedEM-RP/redemrp_respawn)
-3. 🗣 Commented on [#339](https://github.com/tabarra/txAdmin/issues/339) in [tabarra/txAdmin](https://github.com/tabarra/txAdmin)
-4. 💪 Opened PR [#339](https://github.com/tabarra/txAdmin/pull/339) in [tabarra/txAdmin](https://github.com/tabarra/txAdmin)
-5. 💪 Opened PR [#29](https://github.com/RedEM-RP/redemrp_skin/pull/29) in [RedEM-RP/redemrp_skin](https://github.com/RedEM-RP/redemrp_skin)
+1. 💪 Opened PR [#4](https://github.com/femga/rdr3_discoveries/pull/4) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
+2. 💪 Opened PR [#5](https://github.com/kibook/redm-object-spooner/pull/5) in [kibook/redm-object-spooner](https://github.com/kibook/redm-object-spooner)
+3. 💪 Opened PR [#20](https://github.com/RedEM-RP/redemrp_respawn/pull/20) in [RedEM-RP/redemrp_respawn](https://github.com/RedEM-RP/redemrp_respawn)
+4. 🗣 Commented on [#339](https://github.com/tabarra/txAdmin/issues/339) in [tabarra/txAdmin](https://github.com/tabarra/txAdmin)
+5. 💪 Opened PR [#339](https://github.com/tabarra/txAdmin/pull/339) in [tabarra/txAdmin](https://github.com/tabarra/txAdmin)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadiraktas&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadiraktas" /> </p>
