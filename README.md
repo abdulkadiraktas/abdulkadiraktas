@@ -55,11 +55,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [West World New Update For Blackjack](https://www.youtube.com/watch?v=lyX3llJXDkY)
 - [West World - Farming](https://www.youtube.com/watch?v=D1vEq37D8IQ)
 - [Home Creator](https://www.youtube.com/watch?v=FpT0hMKYaDQ)
 - [West World](https://www.youtube.com/watch?v=Tb5xLqgZfLM)
 - [West World](https://www.youtube.com/watch?v=Ggch40QiFOM)
-- [West World](https://www.youtube.com/watch?v=RHxc192XKBo)
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
