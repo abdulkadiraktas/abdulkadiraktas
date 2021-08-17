@@ -63,9 +63,9 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/femga/rdr3_discoveries/pull/4) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
-2. 💪 Opened PR [#5](https://github.com/kibook/redm-object-spooner/pull/5) in [kibook/redm-object-spooner](https://github.com/kibook/redm-object-spooner)
-3. 💪 Opened PR [#20](https://github.com/RedEM-RP/redemrp_respawn/pull/20) in [RedEM-RP/redemrp_respawn](https://github.com/RedEM-RP/redemrp_respawn)
+1. 💪 Opened PR [#5](https://github.com/femga/rdr3_discoveries/pull/5) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
+2. 💪 Opened PR [#4](https://github.com/femga/rdr3_discoveries/pull/4) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
+3. 💪 Opened PR [#5](https://github.com/kibook/redm-object-spooner/pull/5) in [kibook/redm-object-spooner](https://github.com/kibook/redm-object-spooner)
 4. 🗣 Commented on [#339](https://github.com/tabarra/txAdmin/issues/339) in [tabarra/txAdmin](https://github.com/tabarra/txAdmin)
 5. 💪 Opened PR [#339](https://github.com/tabarra/txAdmin/pull/339) in [tabarra/txAdmin](https://github.com/tabarra/txAdmin)
 <!--END_SECTION:activity-->
