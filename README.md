@@ -63,11 +63,11 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/kibook/spooner/pull/12) in [kibook/spooner](https://github.com/kibook/spooner)
-2. 🎉 Merged PR [#1](https://github.com/abdulkadiraktas/redm-object-spooner/pull/1) in [abdulkadiraktas/redm-object-spooner](https://github.com/abdulkadiraktas/redm-object-spooner)
-3. 💪 Opened PR [#1](https://github.com/abdulkadiraktas/redm-object-spooner/pull/1) in [abdulkadiraktas/redm-object-spooner](https://github.com/abdulkadiraktas/redm-object-spooner)
-4. 💪 Opened PR [#5](https://github.com/femga/rdr3_discoveries/pull/5) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
-5. 💪 Opened PR [#4](https://github.com/femga/rdr3_discoveries/pull/4) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
+1. ❌ Closed PR [#5](https://github.com/femga/rdr3_discoveries/pull/5) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
+2. 🗣 Commented on [#5](https://github.com/femga/rdr3_discoveries/issues/5) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
+3. 💪 Opened PR [#12](https://github.com/kibook/spooner/pull/12) in [kibook/spooner](https://github.com/kibook/spooner)
+4. 🎉 Merged PR [#1](https://github.com/abdulkadiraktas/redm-object-spooner/pull/1) in [abdulkadiraktas/redm-object-spooner](https://github.com/abdulkadiraktas/redm-object-spooner)
+5. 💪 Opened PR [#1](https://github.com/abdulkadiraktas/redm-object-spooner/pull/1) in [abdulkadiraktas/redm-object-spooner](https://github.com/abdulkadiraktas/redm-object-spooner)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadiraktas&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadiraktas" /> </p>
