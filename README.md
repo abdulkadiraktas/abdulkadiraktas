@@ -55,11 +55,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [West World - Meta Item For Clothing](https://www.youtube.com/watch?v=uU21OHdAVdI)
 - [Automatic door locking based on time - West World](https://www.youtube.com/watch?v=29txlItvfl0)
 - [WestWorld envnater search](https://www.youtube.com/watch?v=x_VSKwegG4Y)
 - [West World Faytonculuk](https://www.youtube.com/watch?v=6L7PJKvPJpw)
 - [NPC Doktor](https://www.youtube.com/watch?v=UtzhC8p3Wcc)
-- [West World - Meta Item For Clothing](https://www.youtube.com/watch?v=uU21OHdAVdI)
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
