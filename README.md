@@ -63,11 +63,11 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/abdulkadiraktas/rdr3_discoveries/pull/6) in [abdulkadiraktas/rdr3_discoveries](https://github.com/abdulkadiraktas/rdr3_discoveries)
-2. ❌ Closed PR [#5](https://github.com/abdulkadiraktas/rdr3_discoveries/pull/5) in [abdulkadiraktas/rdr3_discoveries](https://github.com/abdulkadiraktas/rdr3_discoveries)
-3. 💪 Opened PR [#5](https://github.com/abdulkadiraktas/rdr3_discoveries/pull/5) in [abdulkadiraktas/rdr3_discoveries](https://github.com/abdulkadiraktas/rdr3_discoveries)
-4. 💪 Opened PR [#18](https://github.com/kibook/spooner/pull/18) in [kibook/spooner](https://github.com/kibook/spooner)
-5. 🎉 Merged PR [#3](https://github.com/abdulkadiraktas/rdr3_discoveries/pull/3) in [abdulkadiraktas/rdr3_discoveries](https://github.com/abdulkadiraktas/rdr3_discoveries)
+1. 🎉 Merged PR [#6](https://github.com/abdulkadiraktas/rdr3_discoveries/pull/6) in [abdulkadiraktas/rdr3_discoveries](https://github.com/abdulkadiraktas/rdr3_discoveries)
+2. 💪 Opened PR [#6](https://github.com/abdulkadiraktas/rdr3_discoveries/pull/6) in [abdulkadiraktas/rdr3_discoveries](https://github.com/abdulkadiraktas/rdr3_discoveries)
+3. ❌ Closed PR [#5](https://github.com/abdulkadiraktas/rdr3_discoveries/pull/5) in [abdulkadiraktas/rdr3_discoveries](https://github.com/abdulkadiraktas/rdr3_discoveries)
+4. 💪 Opened PR [#5](https://github.com/abdulkadiraktas/rdr3_discoveries/pull/5) in [abdulkadiraktas/rdr3_discoveries](https://github.com/abdulkadiraktas/rdr3_discoveries)
+5. 💪 Opened PR [#18](https://github.com/kibook/spooner/pull/18) in [kibook/spooner](https://github.com/kibook/spooner)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadiraktas&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadiraktas" /> </p>
