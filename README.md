@@ -63,11 +63,11 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/femga/rdr3_discoveries/pull/16) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
-2. ❌ Closed PR [#7](https://github.com/abdulkadiraktas/rdr3_discoveries/pull/7) in [abdulkadiraktas/rdr3_discoveries](https://github.com/abdulkadiraktas/rdr3_discoveries)
-3. 💪 Opened PR [#7](https://github.com/abdulkadiraktas/rdr3_discoveries/pull/7) in [abdulkadiraktas/rdr3_discoveries](https://github.com/abdulkadiraktas/rdr3_discoveries)
-4. 🗣 Commented on [#15](https://github.com/femga/rdr3_discoveries/issues/15) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
-5. 💪 Opened PR [#15](https://github.com/femga/rdr3_discoveries/pull/15) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
+1. ❌ Closed PR [#16](https://github.com/femga/rdr3_discoveries/pull/16) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
+2. 🗣 Commented on [#16](https://github.com/femga/rdr3_discoveries/issues/16) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
+3. 💪 Opened PR [#16](https://github.com/femga/rdr3_discoveries/pull/16) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
+4. ❌ Closed PR [#7](https://github.com/abdulkadiraktas/rdr3_discoveries/pull/7) in [abdulkadiraktas/rdr3_discoveries](https://github.com/abdulkadiraktas/rdr3_discoveries)
+5. 💪 Opened PR [#7](https://github.com/abdulkadiraktas/rdr3_discoveries/pull/7) in [abdulkadiraktas/rdr3_discoveries](https://github.com/abdulkadiraktas/rdr3_discoveries)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadiraktas&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadiraktas" /> </p>
