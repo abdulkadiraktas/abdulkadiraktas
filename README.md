@@ -55,11 +55,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [West World - Train](https://www.youtube.com/watch?v=-fOqT86SbHY)
 - [West World - Usable Map](https://www.youtube.com/watch?v=wINa8W2NRUE)
 - [West World Horse Info](https://www.youtube.com/watch?v=mkH8Ey_XFFQ)
 - [West World Loot System](https://www.youtube.com/watch?v=dVIFfhr79FM)
 - [West World Stable - Horse Equipment](https://www.youtube.com/watch?v=EI7IKSE2tgQ)
-- [West World - Meta Item For Clothing](https://www.youtube.com/watch?v=uU21OHdAVdI)
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
