@@ -64,11 +64,11 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/femga/rdr3_discoveries/pull/21) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
-2. 💪 Opened PR [#20](https://github.com/femga/rdr3_discoveries/pull/20) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
-3. 💪 Opened PR [#19](https://github.com/femga/rdr3_discoveries/pull/19) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
-4. 💪 Opened PR [#18](https://github.com/femga/rdr3_discoveries/pull/18) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
-5. 💪 Opened PR [#17](https://github.com/femga/rdr3_discoveries/pull/17) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
+1. 💪 Opened PR [#26](https://github.com/RedEM-RP/redemrp_inventory/pull/26) in [RedEM-RP/redemrp_inventory](https://github.com/RedEM-RP/redemrp_inventory)
+2. 💪 Opened PR [#21](https://github.com/femga/rdr3_discoveries/pull/21) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
+3. 💪 Opened PR [#20](https://github.com/femga/rdr3_discoveries/pull/20) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
+4. 💪 Opened PR [#19](https://github.com/femga/rdr3_discoveries/pull/19) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
+5. 💪 Opened PR [#18](https://github.com/femga/rdr3_discoveries/pull/18) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadiraktas&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadiraktas" /> </p>
