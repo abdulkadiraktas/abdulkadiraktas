@@ -64,11 +64,11 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/RedEM-RP/redemrp_inventory/pull/27) in [RedEM-RP/redemrp_inventory](https://github.com/RedEM-RP/redemrp_inventory)
-2. 💪 Opened PR [#2](https://github.com/kibook/discord_rest/pull/2) in [kibook/discord_rest](https://github.com/kibook/discord_rest)
-3. 💪 Opened PR [#26](https://github.com/RedEM-RP/redemrp_inventory/pull/26) in [RedEM-RP/redemrp_inventory](https://github.com/RedEM-RP/redemrp_inventory)
-4. 💪 Opened PR [#21](https://github.com/femga/rdr3_discoveries/pull/21) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
-5. 💪 Opened PR [#20](https://github.com/femga/rdr3_discoveries/pull/20) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
+1. 💪 Opened PR [#1](https://github.com/abdulkadiraktas/rdr3-nativedb-data/pull/1) in [abdulkadiraktas/rdr3-nativedb-data](https://github.com/abdulkadiraktas/rdr3-nativedb-data)
+2. 💪 Opened PR [#27](https://github.com/RedEM-RP/redemrp_inventory/pull/27) in [RedEM-RP/redemrp_inventory](https://github.com/RedEM-RP/redemrp_inventory)
+3. 💪 Opened PR [#2](https://github.com/kibook/discord_rest/pull/2) in [kibook/discord_rest](https://github.com/kibook/discord_rest)
+4. 💪 Opened PR [#26](https://github.com/RedEM-RP/redemrp_inventory/pull/26) in [RedEM-RP/redemrp_inventory](https://github.com/RedEM-RP/redemrp_inventory)
+5. 💪 Opened PR [#21](https://github.com/femga/rdr3_discoveries/pull/21) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadiraktas&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadiraktas" /> </p>
