@@ -64,11 +64,11 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#97](https://github.com/alloc8or/rdr3-nativedb-data/pull/97) in [alloc8or/rdr3-nativedb-data](https://github.com/alloc8or/rdr3-nativedb-data)
-2. 🎉 Merged PR [#1](https://github.com/abdulkadiraktas/rdr3-nativedb-data/pull/1) in [abdulkadiraktas/rdr3-nativedb-data](https://github.com/abdulkadiraktas/rdr3-nativedb-data)
-3. 💪 Opened PR [#1](https://github.com/abdulkadiraktas/rdr3-nativedb-data/pull/1) in [abdulkadiraktas/rdr3-nativedb-data](https://github.com/abdulkadiraktas/rdr3-nativedb-data)
-4. 💪 Opened PR [#27](https://github.com/RedEM-RP/redemrp_inventory/pull/27) in [RedEM-RP/redemrp_inventory](https://github.com/RedEM-RP/redemrp_inventory)
-5. 💪 Opened PR [#2](https://github.com/kibook/discord_rest/pull/2) in [kibook/discord_rest](https://github.com/kibook/discord_rest)
+1. 💪 Opened PR [#2](https://github.com/RedEM-RP/redemrp_menu_base/pull/2) in [RedEM-RP/redemrp_menu_base](https://github.com/RedEM-RP/redemrp_menu_base)
+2. 💪 Opened PR [#97](https://github.com/alloc8or/rdr3-nativedb-data/pull/97) in [alloc8or/rdr3-nativedb-data](https://github.com/alloc8or/rdr3-nativedb-data)
+3. 🎉 Merged PR [#1](https://github.com/abdulkadiraktas/rdr3-nativedb-data/pull/1) in [abdulkadiraktas/rdr3-nativedb-data](https://github.com/abdulkadiraktas/rdr3-nativedb-data)
+4. 💪 Opened PR [#1](https://github.com/abdulkadiraktas/rdr3-nativedb-data/pull/1) in [abdulkadiraktas/rdr3-nativedb-data](https://github.com/abdulkadiraktas/rdr3-nativedb-data)
+5. 💪 Opened PR [#27](https://github.com/RedEM-RP/redemrp_inventory/pull/27) in [RedEM-RP/redemrp_inventory](https://github.com/RedEM-RP/redemrp_inventory)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadiraktas&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadiraktas" /> </p>
