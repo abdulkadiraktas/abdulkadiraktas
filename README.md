@@ -64,11 +64,11 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/abdulkadiraktas/httpmanager/pull/1) in [abdulkadiraktas/httpmanager](https://github.com/abdulkadiraktas/httpmanager)
-2. 💪 Opened PR [#1](https://github.com/abdulkadiraktas/httpmanager/pull/1) in [abdulkadiraktas/httpmanager](https://github.com/abdulkadiraktas/httpmanager)
-3. 💪 Opened PR [#2](https://github.com/kibook/httpmanager/pull/2) in [kibook/httpmanager](https://github.com/kibook/httpmanager)
-4. 💪 Opened PR [#22](https://github.com/femga/rdr3_discoveries/pull/22) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
-5. 💪 Opened PR [#2](https://github.com/RedEM-RP/redemrp_menu_base/pull/2) in [RedEM-RP/redemrp_menu_base](https://github.com/RedEM-RP/redemrp_menu_base)
+1. ❌ Closed PR [#2](https://github.com/kibook/httpmanager/pull/2) in [kibook/httpmanager](https://github.com/kibook/httpmanager)
+2. 🗣 Commented on [#2](https://github.com/kibook/httpmanager/issues/2) in [kibook/httpmanager](https://github.com/kibook/httpmanager)
+3. 💪 Opened PR [#3](https://github.com/kibook/httpmanager/pull/3) in [kibook/httpmanager](https://github.com/kibook/httpmanager)
+4. 🎉 Merged PR [#1](https://github.com/abdulkadiraktas/httpmanager/pull/1) in [abdulkadiraktas/httpmanager](https://github.com/abdulkadiraktas/httpmanager)
+5. 💪 Opened PR [#1](https://github.com/abdulkadiraktas/httpmanager/pull/1) in [abdulkadiraktas/httpmanager](https://github.com/abdulkadiraktas/httpmanager)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadiraktas&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadiraktas" /> </p>
