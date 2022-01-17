@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Qadr_Map For RedemRP](https://www.youtube.com/watch?v=RJs56sKiND4)
 - [Qadr_Panel](https://www.youtube.com/watch?v=KQ9akYTB1M8)
 - [Qadr Train v0 6](https://www.youtube.com/watch?v=nfy2mOkboJw)
 - [West World   Train](https://www.youtube.com/watch?v=DjfVHpJyerI)
 - [West World Blackjack Server Sync &lpar;WIP&rpar;](https://www.youtube.com/watch?v=GSY95_26mOI)
-- [West World - Train](https://www.youtube.com/watch?v=-fOqT86SbHY)
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
