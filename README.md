@@ -64,11 +64,11 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/RedEM-RP/redemrp_inventory/pull/32) in [RedEM-RP/redemrp_inventory](https://github.com/RedEM-RP/redemrp_inventory)
-2. 💪 Opened PR [#31](https://github.com/RedEM-RP/redemrp_inventory/pull/31) in [RedEM-RP/redemrp_inventory](https://github.com/RedEM-RP/redemrp_inventory)
-3. ❌ Closed PR [#2](https://github.com/kibook/httpmanager/pull/2) in [kibook/httpmanager](https://github.com/kibook/httpmanager)
-4. 🗣 Commented on [#2](https://github.com/kibook/httpmanager/issues/2) in [kibook/httpmanager](https://github.com/kibook/httpmanager)
-5. 💪 Opened PR [#3](https://github.com/kibook/httpmanager/pull/3) in [kibook/httpmanager](https://github.com/kibook/httpmanager)
+1. 🗣 Commented on [#26](https://github.com/RedEM-RP/redemrp_identity/issues/26) in [RedEM-RP/redemrp_identity](https://github.com/RedEM-RP/redemrp_identity)
+2. 💪 Opened PR [#32](https://github.com/RedEM-RP/redemrp_inventory/pull/32) in [RedEM-RP/redemrp_inventory](https://github.com/RedEM-RP/redemrp_inventory)
+3. 💪 Opened PR [#31](https://github.com/RedEM-RP/redemrp_inventory/pull/31) in [RedEM-RP/redemrp_inventory](https://github.com/RedEM-RP/redemrp_inventory)
+4. ❌ Closed PR [#2](https://github.com/kibook/httpmanager/pull/2) in [kibook/httpmanager](https://github.com/kibook/httpmanager)
+5. 🗣 Commented on [#2](https://github.com/kibook/httpmanager/issues/2) in [kibook/httpmanager](https://github.com/kibook/httpmanager)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadiraktas&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadiraktas" /> </p>
