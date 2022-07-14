@@ -64,11 +64,11 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](https://github.com/RedEM-RP/redem_roleplay/pull/39) in [RedEM-RP/redem_roleplay](https://github.com/RedEM-RP/redem_roleplay)
-2. 🗣 Commented on [#1](https://github.com/kibook/discord_rest/issues/1) in [kibook/discord_rest](https://github.com/kibook/discord_rest)
-3. 🗣 Commented on [#26](https://github.com/RedEM-RP/redemrp_identity/issues/26) in [RedEM-RP/redemrp_identity](https://github.com/RedEM-RP/redemrp_identity)
-4. 💪 Opened PR [#32](https://github.com/RedEM-RP/redemrp_inventory/pull/32) in [RedEM-RP/redemrp_inventory](https://github.com/RedEM-RP/redemrp_inventory)
-5. 💪 Opened PR [#31](https://github.com/RedEM-RP/redemrp_inventory/pull/31) in [RedEM-RP/redemrp_inventory](https://github.com/RedEM-RP/redemrp_inventory)
+1. 🗣 Commented on [#2](https://github.com/abdulkadiraktas/RedEMRp_txAdminRecipe/issues/2) in [abdulkadiraktas/RedEMRp_txAdminRecipe](https://github.com/abdulkadiraktas/RedEMRp_txAdminRecipe)
+2. 🗣 Commented on [#2](https://github.com/abdulkadiraktas/RedEMRp_txAdminRecipe/issues/2) in [abdulkadiraktas/RedEMRp_txAdminRecipe](https://github.com/abdulkadiraktas/RedEMRp_txAdminRecipe)
+3. 🗣 Commented on [#40](https://github.com/RedEM-RP/redemrp_inventory/issues/40) in [RedEM-RP/redemrp_inventory](https://github.com/RedEM-RP/redemrp_inventory)
+4. 🗣 Commented on [#40](https://github.com/RedEM-RP/redemrp_inventory/issues/40) in [RedEM-RP/redemrp_inventory](https://github.com/RedEM-RP/redemrp_inventory)
+5. 💪 Opened PR [#2](https://github.com/Wollffus/flow_fireworks/pull/2) in [Wollffus/flow_fireworks](https://github.com/Wollffus/flow_fireworks)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadiraktas&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadiraktas" /> </p>
