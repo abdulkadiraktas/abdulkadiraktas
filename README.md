@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Qadr_Map For RedemRP](https://www.youtube.com/watch?v=RJs56sKiND4)
-- [Qadr_Panel](https://www.youtube.com/watch?v=KQ9akYTB1M8)
-- [Qadr Train v0 6](https://www.youtube.com/watch?v=nfy2mOkboJw)
-- [West World   Train](https://www.youtube.com/watch?v=DjfVHpJyerI)
-- [West World Blackjack Server Sync &lpar;WIP&rpar;](https://www.youtube.com/watch?v=GSY95_26mOI)
+- [qadr_scratchcard](https://www.youtube.com/watch?v=QJsXgRO1V_4)
+- [[Free]Safe Locker For Redm](https://www.youtube.com/watch?v=H6G9j22YZj8)
+- [Qadr Wanted UI](https://www.youtube.com/watch?v=ehQYXhRsgkA)
+- [Qadr_icons](https://www.youtube.com/watch?v=a5MhNZO3rmw)
+- [Qadr Identity](https://www.youtube.com/watch?v=P7KJRqzO5N4)
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
