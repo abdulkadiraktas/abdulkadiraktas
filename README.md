@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [qadr_ui - Fish Bait UI](https://www.youtube.com/watch?v=N5teB5pkogA)
 - [qadr_ui - Rank UI](https://www.youtube.com/watch?v=LxdI-Ez4pVE)
 - [qadr_scratchcard](https://www.youtube.com/watch?v=QJsXgRO1V_4)
 - [[Free]Safe Locker For Redm](https://www.youtube.com/watch?v=H6G9j22YZj8)
 - [Qadr Wanted UI](https://www.youtube.com/watch?v=ehQYXhRsgkA)
-- [Qadr_icons](https://www.youtube.com/watch?v=a5MhNZO3rmw)
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
