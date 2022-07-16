@@ -64,11 +64,11 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/abdulkadiraktas/RedEMRp_txAdminRecipe/issues/2) in [abdulkadiraktas/RedEMRp_txAdminRecipe](https://github.com/abdulkadiraktas/RedEMRp_txAdminRecipe)
-2. 🗣 Commented on [#2](https://github.com/abdulkadiraktas/RedEMRp_txAdminRecipe/issues/2) in [abdulkadiraktas/RedEMRp_txAdminRecipe](https://github.com/abdulkadiraktas/RedEMRp_txAdminRecipe)
-3. 🗣 Commented on [#40](https://github.com/RedEM-RP/redemrp_inventory/issues/40) in [RedEM-RP/redemrp_inventory](https://github.com/RedEM-RP/redemrp_inventory)
-4. 🗣 Commented on [#40](https://github.com/RedEM-RP/redemrp_inventory/issues/40) in [RedEM-RP/redemrp_inventory](https://github.com/RedEM-RP/redemrp_inventory)
-5. 💪 Opened PR [#2](https://github.com/Wollffus/flow_fireworks/pull/2) in [Wollffus/flow_fireworks](https://github.com/Wollffus/flow_fireworks)
+1. 💪 Opened PR [#3](https://github.com/abdulkadiraktas/rdr3-nativedb-data/pull/3) in [abdulkadiraktas/rdr3-nativedb-data](https://github.com/abdulkadiraktas/rdr3-nativedb-data)
+2. ❌ Closed PR [#2](https://github.com/abdulkadiraktas/rdr3-nativedb-data/pull/2) in [abdulkadiraktas/rdr3-nativedb-data](https://github.com/abdulkadiraktas/rdr3-nativedb-data)
+3. 💪 Opened PR [#2](https://github.com/abdulkadiraktas/rdr3-nativedb-data/pull/2) in [abdulkadiraktas/rdr3-nativedb-data](https://github.com/abdulkadiraktas/rdr3-nativedb-data)
+4. 🗣 Commented on [#2](https://github.com/abdulkadiraktas/RedEMRp_txAdminRecipe/issues/2) in [abdulkadiraktas/RedEMRp_txAdminRecipe](https://github.com/abdulkadiraktas/RedEMRp_txAdminRecipe)
+5. 🗣 Commented on [#2](https://github.com/abdulkadiraktas/RedEMRp_txAdminRecipe/issues/2) in [abdulkadiraktas/RedEMRp_txAdminRecipe](https://github.com/abdulkadiraktas/RedEMRp_txAdminRecipe)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadiraktas&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadiraktas" /> </p>
