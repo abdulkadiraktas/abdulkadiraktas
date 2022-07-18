@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [qadr_ui - Message UI](https://www.youtube.com/watch?v=YnWoPVQg10A)
 - [qadr_ui - Horse Info UI](https://www.youtube.com/watch?v=WiOJIrnYg2Y)
 - [qadr_ui - Mission Text UI](https://www.youtube.com/watch?v=GmiKOLIYico)
 - [qadr_ui - Info UI](https://www.youtube.com/watch?v=VVZhxFKe_iQ)
 - [qadr_ui - Fish Bait UI](https://www.youtube.com/watch?v=N5teB5pkogA)
-- [qadr_ui - Rank UI](https://www.youtube.com/watch?v=LxdI-Ez4pVE)
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
