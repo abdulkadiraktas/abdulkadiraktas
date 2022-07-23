@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [qadr_ui - Fishing meter](https://www.youtube.com/watch?v=bfSmOXBBPjc)
 - [qadr_ui - Count Down](https://www.youtube.com/watch?v=ge7FFSuLACk)
 - [qadr_ui - createMapInfo](https://www.youtube.com/watch?v=EyTtbkPqkVo)
 - [qadr ui Board](https://www.youtube.com/watch?v=lB3eutqTEXo)
 - [qadr_ui - Create Meters](https://www.youtube.com/watch?v=SDiUiglOllY)
-- [qadr_ui - Prompt Blip For Entities](https://www.youtube.com/watch?v=oOAbV1gaZK4)
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
