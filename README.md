@@ -64,10 +64,10 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/abdulkadiraktas/rdr3-nativedb-data/pull/3) in [abdulkadiraktas/rdr3-nativedb-data](https://github.com/abdulkadiraktas/rdr3-nativedb-data)
-2. ❌ Closed PR [#2](https://github.com/abdulkadiraktas/rdr3-nativedb-data/pull/2) in [abdulkadiraktas/rdr3-nativedb-data](https://github.com/abdulkadiraktas/rdr3-nativedb-data)
-3. 💪 Opened PR [#2](https://github.com/abdulkadiraktas/rdr3-nativedb-data/pull/2) in [abdulkadiraktas/rdr3-nativedb-data](https://github.com/abdulkadiraktas/rdr3-nativedb-data)
-4. 🗣 Commented on [#2](https://github.com/abdulkadiraktas/RedEMRp_txAdminRecipe/issues/2) in [abdulkadiraktas/RedEMRp_txAdminRecipe](https://github.com/abdulkadiraktas/RedEMRp_txAdminRecipe)
+1. 🎉 Merged PR [#1](https://github.com/abdulkadiraktas/esxv2_Modules_Creator/pull/1) in [abdulkadiraktas/esxv2_Modules_Creator](https://github.com/abdulkadiraktas/esxv2_Modules_Creator)
+2. 💪 Opened PR [#3](https://github.com/abdulkadiraktas/rdr3-nativedb-data/pull/3) in [abdulkadiraktas/rdr3-nativedb-data](https://github.com/abdulkadiraktas/rdr3-nativedb-data)
+3. ❌ Closed PR [#2](https://github.com/abdulkadiraktas/rdr3-nativedb-data/pull/2) in [abdulkadiraktas/rdr3-nativedb-data](https://github.com/abdulkadiraktas/rdr3-nativedb-data)
+4. 💪 Opened PR [#2](https://github.com/abdulkadiraktas/rdr3-nativedb-data/pull/2) in [abdulkadiraktas/rdr3-nativedb-data](https://github.com/abdulkadiraktas/rdr3-nativedb-data)
 5. 🗣 Commented on [#2](https://github.com/abdulkadiraktas/RedEMRp_txAdminRecipe/issues/2) in [abdulkadiraktas/RedEMRp_txAdminRecipe](https://github.com/abdulkadiraktas/RedEMRp_txAdminRecipe)
 <!--END_SECTION:activity-->
 
