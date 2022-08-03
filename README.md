@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [qadr_ui - Honor](https://www.youtube.com/watch?v=zT05XJeOjoc)
 - [qadr_ui - Board Notify](https://www.youtube.com/watch?v=ViCYJ6rrqT8)
 - [qadr_ui - Score](https://www.youtube.com/watch?v=mkgtrdlXp-Q)
 - [qadr_ui - Punch Bar](https://www.youtube.com/watch?v=bfSmOXBBPjc)
 - [qadr_ui - Count Down](https://www.youtube.com/watch?v=ge7FFSuLACk)
-- [qadr_ui - createMapInfo](https://www.youtube.com/watch?v=EyTtbkPqkVo)
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
