@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [qadr train creator - Route system](https://www.youtube.com/watch?v=PYREmkGwGW8)
 - [qadr ui   Card Game UI](https://www.youtube.com/watch?v=wbzaUh46pCg)
 - [qadr ui Bounty Poster](https://www.youtube.com/watch?v=3pGN9d7Yviw)
 - [qadr_ui - Honor](https://www.youtube.com/watch?v=zT05XJeOjoc)
 - [qadr_ui - Board Notify](https://www.youtube.com/watch?v=ViCYJ6rrqT8)
-- [qadr_ui - Score](https://www.youtube.com/watch?v=mkgtrdlXp-Q)
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
