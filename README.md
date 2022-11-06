@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [qadr panel widget creation](https://www.youtube.com/watch?v=9PfGwpHH3aA)
 - [qadr ui radialemnu](https://www.youtube.com/watch?v=eJ8VjjZbktY)
 - [qadr_ui - EmoteUI](https://www.youtube.com/watch?v=2_JDgolM140)
 - [qadr ui shop info ui](https://www.youtube.com/watch?v=NYnZapRi8c8)
 - [qadr ui Mini Map Zoom](https://www.youtube.com/watch?v=36Y0KcI-WOU)
-- [qadr train creator track switch](https://www.youtube.com/watch?v=XQnkvHo-HeE)
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
