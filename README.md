@@ -64,7 +64,7 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/abdulkadiraktas/esxv2_Modules_Creator/pull/1) in [abdulkadiraktas/esxv2_Modules_Creator](https://github.com/abdulkadiraktas/esxv2_Modules_Creator)
+1. ❌ Closed PR [#2](https://github.com/RedEM-RP/redemrp_menu_base/pull/2) in [RedEM-RP/redemrp_menu_base](https://github.com/RedEM-RP/redemrp_menu_base)
 2. 💪 Opened PR [#3](https://github.com/abdulkadiraktas/rdr3-nativedb-data/pull/3) in [abdulkadiraktas/rdr3-nativedb-data](https://github.com/abdulkadiraktas/rdr3-nativedb-data)
 3. ❌ Closed PR [#2](https://github.com/abdulkadiraktas/rdr3-nativedb-data/pull/2) in [abdulkadiraktas/rdr3-nativedb-data](https://github.com/abdulkadiraktas/rdr3-nativedb-data)
 4. 💪 Opened PR [#2](https://github.com/abdulkadiraktas/rdr3-nativedb-data/pull/2) in [abdulkadiraktas/rdr3-nativedb-data](https://github.com/abdulkadiraktas/rdr3-nativedb-data)
