@@ -64,11 +64,11 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/abdulkadiraktas/redemrp_inventory/pull/3) in [abdulkadiraktas/redemrp_inventory](https://github.com/abdulkadiraktas/redemrp_inventory)
-2. 💪 Opened PR [#3](https://github.com/abdulkadiraktas/redemrp_inventory/pull/3) in [abdulkadiraktas/redemrp_inventory](https://github.com/abdulkadiraktas/redemrp_inventory)
-3. ❌ Closed PR [#32](https://github.com/RedEM-RP/redemrp_inventory/pull/32) in [RedEM-RP/redemrp_inventory](https://github.com/RedEM-RP/redemrp_inventory)
-4. ❌ Closed PR [#31](https://github.com/RedEM-RP/redemrp_inventory/pull/31) in [RedEM-RP/redemrp_inventory](https://github.com/RedEM-RP/redemrp_inventory)
-5. 🗣 Commented on [#2](https://github.com/abdulkadiraktas/RedEMRp_txAdminRecipe/issues/2) in [abdulkadiraktas/RedEMRp_txAdminRecipe](https://github.com/abdulkadiraktas/RedEMRp_txAdminRecipe)
+1. 💪 Opened PR [#48](https://github.com/RedEM-RP/redem_roleplay/pull/48) in [RedEM-RP/redem_roleplay](https://github.com/RedEM-RP/redem_roleplay)
+2. 🎉 Merged PR [#3](https://github.com/abdulkadiraktas/redemrp_inventory/pull/3) in [abdulkadiraktas/redemrp_inventory](https://github.com/abdulkadiraktas/redemrp_inventory)
+3. 💪 Opened PR [#3](https://github.com/abdulkadiraktas/redemrp_inventory/pull/3) in [abdulkadiraktas/redemrp_inventory](https://github.com/abdulkadiraktas/redemrp_inventory)
+4. ❌ Closed PR [#32](https://github.com/RedEM-RP/redemrp_inventory/pull/32) in [RedEM-RP/redemrp_inventory](https://github.com/RedEM-RP/redemrp_inventory)
+5. ❌ Closed PR [#31](https://github.com/RedEM-RP/redemrp_inventory/pull/31) in [RedEM-RP/redemrp_inventory](https://github.com/RedEM-RP/redemrp_inventory)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadiraktas&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadiraktas" /> </p>
