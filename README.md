@@ -64,10 +64,10 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#32](https://github.com/RedEM-RP/redemrp_inventory/pull/32) in [RedEM-RP/redemrp_inventory](https://github.com/RedEM-RP/redemrp_inventory)
-2. ❌ Closed PR [#31](https://github.com/RedEM-RP/redemrp_inventory/pull/31) in [RedEM-RP/redemrp_inventory](https://github.com/RedEM-RP/redemrp_inventory)
-3. ❌ Closed PR [#2](https://github.com/RedEM-RP/redemrp_menu_base/pull/2) in [RedEM-RP/redemrp_menu_base](https://github.com/RedEM-RP/redemrp_menu_base)
-4. 💪 Opened PR [#2](https://github.com/abdulkadiraktas/rdr3-nativedb-data/pull/2) in [abdulkadiraktas/rdr3-nativedb-data](https://github.com/abdulkadiraktas/rdr3-nativedb-data)
+1. 🎉 Merged PR [#3](https://github.com/abdulkadiraktas/redemrp_inventory/pull/3) in [abdulkadiraktas/redemrp_inventory](https://github.com/abdulkadiraktas/redemrp_inventory)
+2. 💪 Opened PR [#3](https://github.com/abdulkadiraktas/redemrp_inventory/pull/3) in [abdulkadiraktas/redemrp_inventory](https://github.com/abdulkadiraktas/redemrp_inventory)
+3. ❌ Closed PR [#32](https://github.com/RedEM-RP/redemrp_inventory/pull/32) in [RedEM-RP/redemrp_inventory](https://github.com/RedEM-RP/redemrp_inventory)
+4. ❌ Closed PR [#31](https://github.com/RedEM-RP/redemrp_inventory/pull/31) in [RedEM-RP/redemrp_inventory](https://github.com/RedEM-RP/redemrp_inventory)
 5. 🗣 Commented on [#2](https://github.com/abdulkadiraktas/RedEMRp_txAdminRecipe/issues/2) in [abdulkadiraktas/RedEMRp_txAdminRecipe](https://github.com/abdulkadiraktas/RedEMRp_txAdminRecipe)
 <!--END_SECTION:activity-->
 
