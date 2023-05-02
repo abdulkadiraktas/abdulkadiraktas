@@ -65,10 +65,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#49](https://github.com/RedEM-RP/redem_roleplay/issues/49) in [RedEM-RP/redem_roleplay](https://github.com/RedEM-RP/redem_roleplay)
-2. 💪 Opened PR [#12](https://github.com/RedEM-RP/redemrp_creator/pull/12) in [RedEM-RP/redemrp_creator](https://github.com/RedEM-RP/redemrp_creator)
-3. 💪 Opened PR [#49](https://github.com/RedEM-RP/redem_roleplay/pull/49) in [RedEM-RP/redem_roleplay](https://github.com/RedEM-RP/redem_roleplay)
-4. 💪 Opened PR [#48](https://github.com/RedEM-RP/redem_roleplay/pull/48) in [RedEM-RP/redem_roleplay](https://github.com/RedEM-RP/redem_roleplay)
-5. 🎉 Merged PR [#3](https://github.com/abdulkadiraktas/redemrp_inventory/pull/3) in [abdulkadiraktas/redemrp_inventory](https://github.com/abdulkadiraktas/redemrp_inventory)
+2. 🗣 Commented on [#49](https://github.com/RedEM-RP/redem_roleplay/issues/49) in [RedEM-RP/redem_roleplay](https://github.com/RedEM-RP/redem_roleplay)
+3. 💪 Opened PR [#12](https://github.com/RedEM-RP/redemrp_creator/pull/12) in [RedEM-RP/redemrp_creator](https://github.com/RedEM-RP/redemrp_creator)
+4. 💪 Opened PR [#49](https://github.com/RedEM-RP/redem_roleplay/pull/49) in [RedEM-RP/redem_roleplay](https://github.com/RedEM-RP/redem_roleplay)
+5. 💪 Opened PR [#48](https://github.com/RedEM-RP/redem_roleplay/pull/48) in [RedEM-RP/redem_roleplay](https://github.com/RedEM-RP/redem_roleplay)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadiraktas&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadiraktas" /> </p>
