@@ -64,10 +64,10 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/abdulkadiraktas/remd-combat-log/pull/1) in [abdulkadiraktas/remd-combat-log](https://github.com/abdulkadiraktas/remd-combat-log)
-2. 💪 Opened PR [#1](https://github.com/abdulkadiraktas/remd-combat-log/pull/1) in [abdulkadiraktas/remd-combat-log](https://github.com/abdulkadiraktas/remd-combat-log)
-3. 💪 Opened PR [#50](https://github.com/RedEM-RP/redem_roleplay/pull/50) in [RedEM-RP/redem_roleplay](https://github.com/RedEM-RP/redem_roleplay)
-4. 🗣 Commented on [#49](https://github.com/RedEM-RP/redem_roleplay/pull/49#issuecomment-1531223354) in [RedEM-RP/redem_roleplay](https://github.com/RedEM-RP/redem_roleplay)
+1. 🎉 Merged PR [#8](https://github.com/abdulkadiraktas/rdr3_discoveries/pull/8) in [abdulkadiraktas/rdr3_discoveries](https://github.com/abdulkadiraktas/rdr3_discoveries)
+2. 💪 Opened PR [#8](https://github.com/abdulkadiraktas/rdr3_discoveries/pull/8) in [abdulkadiraktas/rdr3_discoveries](https://github.com/abdulkadiraktas/rdr3_discoveries)
+3. 🎉 Merged PR [#1](https://github.com/abdulkadiraktas/remd-combat-log/pull/1) in [abdulkadiraktas/remd-combat-log](https://github.com/abdulkadiraktas/remd-combat-log)
+4. 💪 Opened PR [#1](https://github.com/abdulkadiraktas/remd-combat-log/pull/1) in [abdulkadiraktas/remd-combat-log](https://github.com/abdulkadiraktas/remd-combat-log)
 5. 🗣 Commented on [#49](https://github.com/RedEM-RP/redem_roleplay/pull/49#issuecomment-1530733744) in [RedEM-RP/redem_roleplay](https://github.com/RedEM-RP/redem_roleplay)
 <!--END_SECTION:activity-->
 
