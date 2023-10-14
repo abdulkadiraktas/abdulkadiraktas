@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [qadr_ui - wantedUI](https://www.youtube.com/watch?v=w_5sprU3zIE)
 - [qadr_ui Death Screen](https://www.youtube.com/watch?v=T-7QKuIL2LM)
 - [qadr shooting range](https://www.youtube.com/watch?v=1QTHnQewsVs)
 - [qadr panel widget creation](https://www.youtube.com/watch?v=9PfGwpHH3aA)
 - [qadr ui radialemnu](https://www.youtube.com/watch?v=eJ8VjjZbktY)
-- [qadr_ui - EmoteUI](https://www.youtube.com/watch?v=2_JDgolM140)
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
