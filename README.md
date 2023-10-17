@@ -56,7 +56,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [qadr_ui-AbilityUI -- Soon](https://www.youtube.com/watch?v=Kp-BufjfRyQ)
+- [qadr_ui AbilityUI](https://www.youtube.com/watch?v=Kp-BufjfRyQ)
 - [qadr_ui - wantedUI](https://www.youtube.com/watch?v=w_5sprU3zIE)
 - [qadr_ui Death Screen](https://www.youtube.com/watch?v=T-7QKuIL2LM)
 - [qadr shooting range](https://www.youtube.com/watch?v=1QTHnQewsVs)
