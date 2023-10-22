@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [qadr_ui - Legendary Animal Map UI](https://www.youtube.com/watch?v=oGb24x9Lu8M)
 - [qadr_ui-MapIcon](https://www.youtube.com/watch?v=R4GdT967h2w)
 - [qadr ui Meters - Updated](https://www.youtube.com/watch?v=QB-dTLkudRA)
 - [qadr_ui AbilityUI](https://www.youtube.com/watch?v=Kp-BufjfRyQ)
 - [qadr_ui - wantedUI](https://www.youtube.com/watch?v=w_5sprU3zIE)
-- [qadr_ui Death Screen](https://www.youtube.com/watch?v=T-7QKuIL2LM)
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
