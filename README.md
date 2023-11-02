@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Player Ui - qadr_ui / soon](https://www.youtube.com/watch?v=xMfjOF4YMDU)
 - [qadr_ui - Usable Crafting Menu UI](https://www.youtube.com/watch?v=6gVKVpCRKLQ)
 - [qadr_ui - Legendary Animal Map UI](https://www.youtube.com/watch?v=oGb24x9Lu8M)
 - [qadr_ui-MapIcon](https://www.youtube.com/watch?v=R4GdT967h2w)
 - [qadr ui Meters - Updated](https://www.youtube.com/watch?v=QB-dTLkudRA)
-- [qadr_ui AbilityUI](https://www.youtube.com/watch?v=Kp-BufjfRyQ)
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
