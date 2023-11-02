@@ -64,11 +64,11 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/abdulkadiraktas/rdr3_discoveries/pull/9) in [abdulkadiraktas/rdr3_discoveries](https://github.com/abdulkadiraktas/rdr3_discoveries)
-2. 💪 Opened PR [#9](https://github.com/abdulkadiraktas/rdr3_discoveries/pull/9) in [abdulkadiraktas/rdr3_discoveries](https://github.com/abdulkadiraktas/rdr3_discoveries)
-3. 💪 Opened PR [#34](https://github.com/femga/rdr3_discoveries/pull/34) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
-4. 🎉 Merged PR [#8](https://github.com/abdulkadiraktas/rdr3_discoveries/pull/8) in [abdulkadiraktas/rdr3_discoveries](https://github.com/abdulkadiraktas/rdr3_discoveries)
-5. 💪 Opened PR [#8](https://github.com/abdulkadiraktas/rdr3_discoveries/pull/8) in [abdulkadiraktas/rdr3_discoveries](https://github.com/abdulkadiraktas/rdr3_discoveries)
+1. 💪 Opened PR [#170](https://github.com/alloc8or/rdr3-nativedb-data/pull/170) in [alloc8or/rdr3-nativedb-data](https://github.com/alloc8or/rdr3-nativedb-data)
+2. 🎉 Merged PR [#9](https://github.com/abdulkadiraktas/rdr3_discoveries/pull/9) in [abdulkadiraktas/rdr3_discoveries](https://github.com/abdulkadiraktas/rdr3_discoveries)
+3. 💪 Opened PR [#9](https://github.com/abdulkadiraktas/rdr3_discoveries/pull/9) in [abdulkadiraktas/rdr3_discoveries](https://github.com/abdulkadiraktas/rdr3_discoveries)
+4. 💪 Opened PR [#34](https://github.com/femga/rdr3_discoveries/pull/34) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
+5. 🎉 Merged PR [#8](https://github.com/abdulkadiraktas/rdr3_discoveries/pull/8) in [abdulkadiraktas/rdr3_discoveries](https://github.com/abdulkadiraktas/rdr3_discoveries)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadiraktas&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadiraktas" /> </p>
