@@ -64,8 +64,8 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/RedEM-RP/redem_roleplay/pull/50#issuecomment-1971223622) in [RedEM-RP/redem_roleplay](https://github.com/RedEM-RP/redem_roleplay)
-2. 🎉 Merged PR [#9](https://github.com/abdulkadiraktas/rdr3_discoveries/pull/9) in [abdulkadiraktas/rdr3_discoveries](https://github.com/abdulkadiraktas/rdr3_discoveries)
+1. 💪 Opened PR [#56](https://github.com/RedEM-RP/redem_roleplay/pull/56) in [RedEM-RP/redem_roleplay](https://github.com/RedEM-RP/redem_roleplay)
+2. 🗣 Commented on [#50](https://github.com/RedEM-RP/redem_roleplay/pull/50#issuecomment-1971223622) in [RedEM-RP/redem_roleplay](https://github.com/RedEM-RP/redem_roleplay)
 3. 💪 Opened PR [#9](https://github.com/abdulkadiraktas/rdr3_discoveries/pull/9) in [abdulkadiraktas/rdr3_discoveries](https://github.com/abdulkadiraktas/rdr3_discoveries)
 4. 💪 Opened PR [#34](https://github.com/femga/rdr3_discoveries/pull/34) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
 5. 🎉 Merged PR [#8](https://github.com/abdulkadiraktas/rdr3_discoveries/pull/8) in [abdulkadiraktas/rdr3_discoveries](https://github.com/abdulkadiraktas/rdr3_discoveries)
