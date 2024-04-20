@@ -64,11 +64,11 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/RedEM-RP/redem_roleplay/pull/50#issuecomment-1996785787) in [RedEM-RP/redem_roleplay](https://github.com/RedEM-RP/redem_roleplay)
-2. 💪 Opened PR [#56](https://github.com/RedEM-RP/redem_roleplay/pull/56) in [RedEM-RP/redem_roleplay](https://github.com/RedEM-RP/redem_roleplay)
-3. 🗣 Commented on [#50](https://github.com/RedEM-RP/redem_roleplay/pull/50#issuecomment-1971223622) in [RedEM-RP/redem_roleplay](https://github.com/RedEM-RP/redem_roleplay)
-4. 💪 Opened PR [#34](https://github.com/femga/rdr3_discoveries/pull/34) in [femga/rdr3_discoveries](https://github.com/femga/rdr3_discoveries)
-5. 🎉 Merged PR [#8](https://github.com/abdulkadiraktas/rdr3_discoveries/pull/8) in [abdulkadiraktas/rdr3_discoveries](https://github.com/abdulkadiraktas/rdr3_discoveries)
+1. 🚀 Published release [First Release For RedM](https://github.com/abdulkadiraktas/Faroeste_ox_inventory/releases/tag/firstRelease) in [abdulkadiraktas/Faroeste_ox_inventory](https://github.com/abdulkadiraktas/Faroeste_ox_inventory)
+2. 🚀 Published release [First Release For RedM](https://github.com/abdulkadiraktas/Faroeste_ox_inventory/releases/tag/firstRelease) in [abdulkadiraktas/Faroeste_ox_inventory](https://github.com/abdulkadiraktas/Faroeste_ox_inventory)
+3. 🗣 Commented on [#50](https://github.com/RedEM-RP/redem_roleplay/pull/50#issuecomment-1996785787) in [RedEM-RP/redem_roleplay](https://github.com/RedEM-RP/redem_roleplay)
+4. 💪 Opened PR [#56](https://github.com/RedEM-RP/redem_roleplay/pull/56) in [RedEM-RP/redem_roleplay](https://github.com/RedEM-RP/redem_roleplay)
+5. 🗣 Commented on [#50](https://github.com/RedEM-RP/redem_roleplay/pull/50#issuecomment-1971223622) in [RedEM-RP/redem_roleplay](https://github.com/RedEM-RP/redem_roleplay)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadiraktas&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadiraktas" /> </p>
