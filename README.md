@@ -64,11 +64,11 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/Faroeste-Roleplay/frp_core/pull/4) in [Faroeste-Roleplay/frp_core](https://github.com/Faroeste-Roleplay/frp_core)
-2. 💪 Opened PR [#1](https://github.com/Faroeste-Roleplay/ox_inventory/pull/1) in [Faroeste-Roleplay/ox_inventory](https://github.com/Faroeste-Roleplay/ox_inventory)
-3. 🚀 Published release [v0.0.2](https://github.com/abdulkadiraktas/Faroeste_ox_inventory/releases/tag/v0.0.2) in [abdulkadiraktas/Faroeste_ox_inventory](https://github.com/abdulkadiraktas/Faroeste_ox_inventory)
-4. 🎉 Merged PR [#1](https://github.com/abdulkadiraktas/Faroeste_ox_inventory/pull/1) in [abdulkadiraktas/Faroeste_ox_inventory](https://github.com/abdulkadiraktas/Faroeste_ox_inventory)
-5. 💪 Opened PR [#1](https://github.com/abdulkadiraktas/Faroeste_ox_inventory/pull/1) in [abdulkadiraktas/Faroeste_ox_inventory](https://github.com/abdulkadiraktas/Faroeste_ox_inventory)
+1. 💪 Opened PR [#1](https://github.com/Faroeste-Roleplay/ox_lib/pull/1) in [Faroeste-Roleplay/ox_lib](https://github.com/Faroeste-Roleplay/ox_lib)
+2. 💪 Opened PR [#4](https://github.com/Faroeste-Roleplay/frp_core/pull/4) in [Faroeste-Roleplay/frp_core](https://github.com/Faroeste-Roleplay/frp_core)
+3. 💪 Opened PR [#1](https://github.com/Faroeste-Roleplay/ox_inventory/pull/1) in [Faroeste-Roleplay/ox_inventory](https://github.com/Faroeste-Roleplay/ox_inventory)
+4. 🚀 Published release [v0.0.2](https://github.com/abdulkadiraktas/Faroeste_ox_inventory/releases/tag/v0.0.2) in [abdulkadiraktas/Faroeste_ox_inventory](https://github.com/abdulkadiraktas/Faroeste_ox_inventory)
+5. 🎉 Merged PR [#1](https://github.com/abdulkadiraktas/Faroeste_ox_inventory/pull/1) in [abdulkadiraktas/Faroeste_ox_inventory](https://github.com/abdulkadiraktas/Faroeste_ox_inventory)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadiraktas&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadiraktas" /> </p>
