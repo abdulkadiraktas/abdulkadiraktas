@@ -64,11 +64,11 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe/pull/1) in [abdulkadiraktas/Faroeste_txAdminRecipe](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe)
-2. 💪 Opened PR [#1](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe/pull/1) in [abdulkadiraktas/Faroeste_txAdminRecipe](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe)
-3. 💪 Opened PR [#1](https://github.com/Faroeste-Roleplay/txAdminRecipe/pull/1) in [Faroeste-Roleplay/txAdminRecipe](https://github.com/Faroeste-Roleplay/txAdminRecipe)
-4. 💪 Opened PR [#3](https://github.com/Faroeste-Roleplay/frp_core/pull/3) in [Faroeste-Roleplay/frp_core](https://github.com/Faroeste-Roleplay/frp_core)
-5. 💪 Opened PR [#1](https://github.com/Faroeste-Roleplay/frp_core/pull/1) in [Faroeste-Roleplay/frp_core](https://github.com/Faroeste-Roleplay/frp_core)
+1. 🎉 Merged PR [#1](https://github.com/abdulkadiraktas/Faroeste_ox_inventory/pull/1) in [abdulkadiraktas/Faroeste_ox_inventory](https://github.com/abdulkadiraktas/Faroeste_ox_inventory)
+2. 💪 Opened PR [#1](https://github.com/abdulkadiraktas/Faroeste_ox_inventory/pull/1) in [abdulkadiraktas/Faroeste_ox_inventory](https://github.com/abdulkadiraktas/Faroeste_ox_inventory)
+3. 🎉 Merged PR [#1](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe/pull/1) in [abdulkadiraktas/Faroeste_txAdminRecipe](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe)
+4. 💪 Opened PR [#1](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe/pull/1) in [abdulkadiraktas/Faroeste_txAdminRecipe](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe)
+5. 💪 Opened PR [#1](https://github.com/Faroeste-Roleplay/txAdminRecipe/pull/1) in [Faroeste-Roleplay/txAdminRecipe](https://github.com/Faroeste-Roleplay/txAdminRecipe)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadiraktas&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadiraktas" /> </p>
