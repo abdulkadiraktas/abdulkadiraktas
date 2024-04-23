@@ -64,11 +64,11 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/Faroeste-Roleplay/frp_core/pull/5) in [Faroeste-Roleplay/frp_core](https://github.com/Faroeste-Roleplay/frp_core)
-2. 💪 Opened PR [#1](https://github.com/Faroeste-Roleplay/frp_creator/pull/1) in [Faroeste-Roleplay/frp_creator](https://github.com/Faroeste-Roleplay/frp_creator)
-3. 💪 Opened PR [#2](https://github.com/Faroeste-Roleplay/txAdminRecipe/pull/2) in [Faroeste-Roleplay/txAdminRecipe](https://github.com/Faroeste-Roleplay/txAdminRecipe)
-4. 🎉 Merged PR [#2](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe/pull/2) in [abdulkadiraktas/Faroeste_txAdminRecipe](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe)
-5. 💪 Opened PR [#2](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe/pull/2) in [abdulkadiraktas/Faroeste_txAdminRecipe](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe)
+1. 💪 Opened PR [#1](https://github.com/Faroeste-Roleplay/frp_spawn_selector/pull/1) in [Faroeste-Roleplay/frp_spawn_selector](https://github.com/Faroeste-Roleplay/frp_spawn_selector)
+2. 💪 Opened PR [#5](https://github.com/Faroeste-Roleplay/frp_core/pull/5) in [Faroeste-Roleplay/frp_core](https://github.com/Faroeste-Roleplay/frp_core)
+3. 💪 Opened PR [#1](https://github.com/Faroeste-Roleplay/frp_creator/pull/1) in [Faroeste-Roleplay/frp_creator](https://github.com/Faroeste-Roleplay/frp_creator)
+4. 💪 Opened PR [#2](https://github.com/Faroeste-Roleplay/txAdminRecipe/pull/2) in [Faroeste-Roleplay/txAdminRecipe](https://github.com/Faroeste-Roleplay/txAdminRecipe)
+5. 🎉 Merged PR [#2](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe/pull/2) in [abdulkadiraktas/Faroeste_txAdminRecipe](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadiraktas&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadiraktas" /> </p>
