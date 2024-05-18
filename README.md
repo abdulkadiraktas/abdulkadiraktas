@@ -64,11 +64,11 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe/pull/3) in [abdulkadiraktas/Faroeste_txAdminRecipe](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe)
-2. 🗣 Commented on [#1](https://github.com/Faroeste-Roleplay/frp_logs/pull/1#issuecomment-2088736544) in [Faroeste-Roleplay/frp_logs](https://github.com/Faroeste-Roleplay/frp_logs)
-3. 💪 Opened PR [#1](https://github.com/Faroeste-Roleplay/frp_logs/pull/1) in [Faroeste-Roleplay/frp_logs](https://github.com/Faroeste-Roleplay/frp_logs)
-4. 💪 Opened PR [#3](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe/pull/3) in [abdulkadiraktas/Faroeste_txAdminRecipe](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe)
-5. 💪 Opened PR [#6](https://github.com/Faroeste-Roleplay/frp_core/pull/6) in [Faroeste-Roleplay/frp_core](https://github.com/Faroeste-Roleplay/frp_core)
+1. ❌ Closed PR [#1](https://github.com/Faroeste-Roleplay/ox_inventory/pull/1) in [Faroeste-Roleplay/ox_inventory](https://github.com/Faroeste-Roleplay/ox_inventory)
+2. 🎉 Merged PR [#4](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe/pull/4) in [abdulkadiraktas/Faroeste_txAdminRecipe](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe)
+3. 💪 Opened PR [#4](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe/pull/4) in [abdulkadiraktas/Faroeste_txAdminRecipe](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe)
+4. 🎉 Merged PR [#3](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe/pull/3) in [abdulkadiraktas/Faroeste_txAdminRecipe](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe)
+5. 🗣 Commented on [#1](https://github.com/Faroeste-Roleplay/frp_logs/pull/1#issuecomment-2088736544) in [Faroeste-Roleplay/frp_logs](https://github.com/Faroeste-Roleplay/frp_logs)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadiraktas&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadiraktas" /> </p>
