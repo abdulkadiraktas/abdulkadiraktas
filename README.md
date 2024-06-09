@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [qadr tebex shop](https://www.youtube.com/watch?v=ESK9zYQ9M5k)
 - [Faroeste Recipe](https://www.youtube.com/watch?v=F1vVW4GHTbQ)
 - [qadr_ui - Player Menu UI](https://www.youtube.com/watch?v=SiTDEDddK7I)
 - [Player Ui - qadr_ui / soon](https://www.youtube.com/watch?v=xMfjOF4YMDU)
 - [qadr_ui - Usable Crafting Menu UI](https://www.youtube.com/watch?v=6gVKVpCRKLQ)
-- [qadr_ui - Legendary Animal Map UI](https://www.youtube.com/watch?v=oGb24x9Lu8M)
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
