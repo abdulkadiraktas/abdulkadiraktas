@@ -64,11 +64,11 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe/pull/5) in [abdulkadiraktas/Faroeste_txAdminRecipe](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe)
-2. 💪 Opened PR [#5](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe/pull/5) in [abdulkadiraktas/Faroeste_txAdminRecipe](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe)
-3. 💪 Opened PR [#3](https://github.com/Faroeste-Roleplay/txAdminRecipe/pull/3) in [Faroeste-Roleplay/txAdminRecipe](https://github.com/Faroeste-Roleplay/txAdminRecipe)
-4. ❌ Closed PR [#1](https://github.com/Faroeste-Roleplay/ox_inventory/pull/1) in [Faroeste-Roleplay/ox_inventory](https://github.com/Faroeste-Roleplay/ox_inventory)
-5. 🎉 Merged PR [#4](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe/pull/4) in [abdulkadiraktas/Faroeste_txAdminRecipe](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe)
+1. 🎉 Merged PR [#1](https://github.com/abdulkadiraktas/rdr3-nativedb-data/pull/1) in [abdulkadiraktas/rdr3-nativedb-data](https://github.com/abdulkadiraktas/rdr3-nativedb-data)
+2. 💪 Opened PR [#1](https://github.com/abdulkadiraktas/rdr3-nativedb-data/pull/1) in [abdulkadiraktas/rdr3-nativedb-data](https://github.com/abdulkadiraktas/rdr3-nativedb-data)
+3. 🎉 Merged PR [#5](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe/pull/5) in [abdulkadiraktas/Faroeste_txAdminRecipe](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe)
+4. 💪 Opened PR [#5](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe/pull/5) in [abdulkadiraktas/Faroeste_txAdminRecipe](https://github.com/abdulkadiraktas/Faroeste_txAdminRecipe)
+5. 💪 Opened PR [#3](https://github.com/Faroeste-Roleplay/txAdminRecipe/pull/3) in [Faroeste-Roleplay/txAdminRecipe](https://github.com/Faroeste-Roleplay/txAdminRecipe)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadiraktas&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadiraktas" /> </p>
