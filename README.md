@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [qadr_ui usable catalog / soon](https://www.youtube.com/watch?v=siOpqtPPVCs)
 - [qadr_ui passiveicon](https://www.youtube.com/watch?v=8JCLtAF_d9E)
 - [qadr_ui setCapitalText / soon](https://www.youtube.com/watch?v=q71t9hESz3k)
 - [qadr_ui Custom Timer / soon](https://www.youtube.com/watch?v=z7rah322fTM)
 - [qadr_ui RDR2 Native Inventory / soon](https://www.youtube.com/watch?v=egZzcOf-gsQ)
-- [qadr tebex shop](https://www.youtube.com/watch?v=ESK9zYQ9M5k)
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
