@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Qadr_ui - Usable Handheld Catalogue](https://www.youtube.com/watch?v=iSC8DbYmENU)
 - [qadr ui Catalog / Soon](https://www.youtube.com/watch?v=vRt77HnUB5Q)
 - [qadr_ui Usable Handbook / Soon](https://www.youtube.com/watch?v=sQsyYEI_X84)
 - [qadr_ui usable catalog / soon](https://www.youtube.com/watch?v=siOpqtPPVCs)
 - [qadr_ui passiveicon](https://www.youtube.com/watch?v=8JCLtAF_d9E)
-- [qadr_ui setCapitalText / soon](https://www.youtube.com/watch?v=q71t9hESz3k)
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
