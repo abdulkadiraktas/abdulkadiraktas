@@ -64,11 +64,11 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/cpmodding/Codex.Games.RDR2.strings/pull/20#issuecomment-2322254567) in [cpmodding/Codex.Games.RDR2.strings](https://github.com/cpmodding/Codex.Games.RDR2.strings)
-2. 💪 Opened PR [#20](https://github.com/cpmodding/Codex.Games.RDR2.strings/pull/20) in [cpmodding/Codex.Games.RDR2.strings](https://github.com/cpmodding/Codex.Games.RDR2.strings)
-3. 🗣 Commented on [#7](https://github.com/Faroeste-Roleplay/frp_core/issues/7#issuecomment-2307800799) in [Faroeste-Roleplay/frp_core](https://github.com/Faroeste-Roleplay/frp_core)
-4. 🗣 Commented on [#7](https://github.com/Faroeste-Roleplay/frp_core/issues/7#issuecomment-2307740492) in [Faroeste-Roleplay/frp_core](https://github.com/Faroeste-Roleplay/frp_core)
-5. 💪 Opened PR [#50](https://github.com/RedEM-RP/redemrp_inventory/pull/50) in [RedEM-RP/redemrp_inventory](https://github.com/RedEM-RP/redemrp_inventory)
+1. 🎉 Merged PR [#2](https://github.com/abdulkadiraktas/rdr3-nativedb-data/pull/2) in [abdulkadiraktas/rdr3-nativedb-data](https://github.com/abdulkadiraktas/rdr3-nativedb-data)
+2. 💪 Opened PR [#2](https://github.com/abdulkadiraktas/rdr3-nativedb-data/pull/2) in [abdulkadiraktas/rdr3-nativedb-data](https://github.com/abdulkadiraktas/rdr3-nativedb-data)
+3. 💪 Opened PR [#176](https://github.com/alloc8or/rdr3-nativedb-data/pull/176) in [alloc8or/rdr3-nativedb-data](https://github.com/alloc8or/rdr3-nativedb-data)
+4. 🗣 Commented on [#20](https://github.com/cpmodding/Codex.Games.RDR2.strings/pull/20#issuecomment-2322254567) in [cpmodding/Codex.Games.RDR2.strings](https://github.com/cpmodding/Codex.Games.RDR2.strings)
+5. 💪 Opened PR [#20](https://github.com/cpmodding/Codex.Games.RDR2.strings/pull/20) in [cpmodding/Codex.Games.RDR2.strings](https://github.com/cpmodding/Codex.Games.RDR2.strings)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadiraktas&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadiraktas" /> </p>
