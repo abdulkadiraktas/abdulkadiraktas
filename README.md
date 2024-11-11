@@ -64,11 +64,11 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/abdulkadiraktas/rdr3-nativedb-data/pull/4) in [abdulkadiraktas/rdr3-nativedb-data](https://github.com/abdulkadiraktas/rdr3-nativedb-data)
-2. 💪 Opened PR [#4](https://github.com/abdulkadiraktas/rdr3-nativedb-data/pull/4) in [abdulkadiraktas/rdr3-nativedb-data](https://github.com/abdulkadiraktas/rdr3-nativedb-data)
-3. 🎉 Merged PR [#3](https://github.com/abdulkadiraktas/rdr3-nativedb-data/pull/3) in [abdulkadiraktas/rdr3-nativedb-data](https://github.com/abdulkadiraktas/rdr3-nativedb-data)
-4. 💪 Opened PR [#3](https://github.com/abdulkadiraktas/rdr3-nativedb-data/pull/3) in [abdulkadiraktas/rdr3-nativedb-data](https://github.com/abdulkadiraktas/rdr3-nativedb-data)
-5. 💪 Opened PR [#208](https://github.com/alloc8or/rdr3-nativedb-data/pull/208) in [alloc8or/rdr3-nativedb-data](https://github.com/alloc8or/rdr3-nativedb-data)
+1. ❌ Closed PR [#177](https://github.com/alloc8or/rdr3-nativedb-data/pull/177) in [alloc8or/rdr3-nativedb-data](https://github.com/alloc8or/rdr3-nativedb-data)
+2. ❌ Closed PR [#178](https://github.com/alloc8or/rdr3-nativedb-data/pull/178) in [alloc8or/rdr3-nativedb-data](https://github.com/alloc8or/rdr3-nativedb-data)
+3. ❌ Closed PR [#179](https://github.com/alloc8or/rdr3-nativedb-data/pull/179) in [alloc8or/rdr3-nativedb-data](https://github.com/alloc8or/rdr3-nativedb-data)
+4. ❌ Closed PR [#180](https://github.com/alloc8or/rdr3-nativedb-data/pull/180) in [alloc8or/rdr3-nativedb-data](https://github.com/alloc8or/rdr3-nativedb-data)
+5. ❌ Closed PR [#183](https://github.com/alloc8or/rdr3-nativedb-data/pull/183) in [alloc8or/rdr3-nativedb-data](https://github.com/alloc8or/rdr3-nativedb-data)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadiraktas&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadiraktas" /> </p>
