@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [qadr ui pass](https://www.youtube.com/watch?v=Zp8LqbCXGWg)
 - [treasure map](https://www.youtube.com/watch?v=TQVn4uMAO_M)
 - [qadr_ui / Ledger System - Soon](https://www.youtube.com/watch?v=phKSA8qp4j4)
 - [qadr_ui / Ledger - Soon](https://www.youtube.com/watch?v=KqS_a6HuzkA)
 - [Qadr_UI / Ledger - Soon](https://www.youtube.com/watch?v=58xe4ltlbug)
-- [Qadr_ui - Usable Handheld Catalogue](https://www.youtube.com/watch?v=iSC8DbYmENU)
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
