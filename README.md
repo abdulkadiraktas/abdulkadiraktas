@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [qadr ui crafting](https://www.youtube.com/watch?v=wZye0tHprww)
 - [qadr ingame tebex shop](https://www.youtube.com/watch?v=kvYhM6gxVXM)
 - [qadr ui satchel - WIP](https://www.youtube.com/watch?v=1EXQP0j5F0c)
 - [qadr poster creator - free](https://www.youtube.com/watch?v=U6K7FOpY-A4)
 - [qadr ui pass](https://www.youtube.com/watch?v=Zp8LqbCXGWg)
-- [treasure map](https://www.youtube.com/watch?v=TQVn4uMAO_M)
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
