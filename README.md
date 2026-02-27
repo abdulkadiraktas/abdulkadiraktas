@@ -64,11 +64,11 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/abdulkadiraktas/twitter_block_list/pull/4) in [abdulkadiraktas/twitter_block_list](https://github.com/abdulkadiraktas/twitter_block_list)
-2. 💪 Opened PR [#3](https://github.com/abdulkadiraktas/twitter_block_list/pull/3) in [abdulkadiraktas/twitter_block_list](https://github.com/abdulkadiraktas/twitter_block_list)
-3. 🎉 Merged PR [#1](https://github.com/abdulkadiraktas/twitter_block_list/pull/1) in [abdulkadiraktas/twitter_block_list](https://github.com/abdulkadiraktas/twitter_block_list)
-4. ❌ Closed PR [#2](https://github.com/abdulkadiraktas/twitter_block_list/pull/2) in [abdulkadiraktas/twitter_block_list](https://github.com/abdulkadiraktas/twitter_block_list)
-5. 💪 Opened PR [#2](https://github.com/abdulkadiraktas/twitter_block_list/pull/2) in [abdulkadiraktas/twitter_block_list](https://github.com/abdulkadiraktas/twitter_block_list)
+1. ❌ Closed PR [#4](https://github.com/abdulkadiraktas/twitter_block_list/pull/4) in [abdulkadiraktas/twitter_block_list](https://github.com/abdulkadiraktas/twitter_block_list)
+2. ❌ Closed PR [#3](https://github.com/abdulkadiraktas/twitter_block_list/pull/3) in [abdulkadiraktas/twitter_block_list](https://github.com/abdulkadiraktas/twitter_block_list)
+3. 💪 Opened PR [#4](https://github.com/abdulkadiraktas/twitter_block_list/pull/4) in [abdulkadiraktas/twitter_block_list](https://github.com/abdulkadiraktas/twitter_block_list)
+4. 💪 Opened PR [#3](https://github.com/abdulkadiraktas/twitter_block_list/pull/3) in [abdulkadiraktas/twitter_block_list](https://github.com/abdulkadiraktas/twitter_block_list)
+5. 🎉 Merged PR [#1](https://github.com/abdulkadiraktas/twitter_block_list/pull/1) in [abdulkadiraktas/twitter_block_list](https://github.com/abdulkadiraktas/twitter_block_list)
 <!--END_SECTION:activity-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadiraktas&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadiraktas" /> </p>
